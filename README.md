@@ -1,2 +1,2 @@
 # learndemo
-好好学习天天向上
+github 记录美好撸码生活
