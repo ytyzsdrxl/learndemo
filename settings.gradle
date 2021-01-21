@@ -1,0 +1,4 @@
+include ':opengles'
+include ':greendao'
+include ':app'
+rootProject.name = "sqlitedemo"
